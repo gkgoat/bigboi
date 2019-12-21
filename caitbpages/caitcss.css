@@ -1,0 +1,34 @@
+body {
+  color: rgb(255, 0, 0);
+  background-image: url(https://designshack.net/wp-content/uploads/graphic-design-is-my-passion.jpg);
+	font-family: 'Comic Sans MS', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: rgb(0, 255, 0);
+  line-height: 50px;
+  display: block;
+  font-family: "Comic sans MS", "san-serif";
+  font-style: italic;
+}
+
+li a:hover {
+  background-color: yellow;
+  color: white;
+}
+
