@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
 body {
-  background-image: url("https://wallpaperplay.com/walls/full/4/2/2/234831.jpg")
+  background-image: url("https://wallpaperplay.com/walls/full/4/2/2/234831.jpg");
+  font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
 }
 h1 {
   color: white;
@@ -7,5 +10,4 @@ h1 {
 }
 iframe {
   border: 5px solid white;
-  text-shadow: 2px 2px 4px #000000ad;
 }

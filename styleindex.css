@@ -109,7 +109,7 @@ a:hover {
 	margin-bottom: 24px;
 	border-radius: 15px;
 
-	font-family: Source Sans Pro;
+	font-family: inherit;
 	font-size: 32px;
 }
 ul li a {

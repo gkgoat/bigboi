@@ -1,12 +1,20 @@
 <html>
-  <img src="loading.gif" alt="An Error Has Occured">
-<script>
-function myFunction() {
-  location.replace("colorslimefinished.html")
-} </script>
-<style>
-  body {
-    background-color: black
-  }
-</style>
-<body onload="setTimeout(myFunction(),3000)">
+<head>
+	<style>
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-color: black;
+		}
+	</style>
+	<script>
+		function myFunction() {
+			location.replace("colorslimefinished.html");
+		}
+	</script>
+</head>
+<body onload="setTimeout(myFunction, 3000)">
+	<img src="loading.gif" alt="An Error Has Occured">
+</body>
+</html>

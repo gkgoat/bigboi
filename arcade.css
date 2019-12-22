@@ -16,7 +16,7 @@ li {
 
 body {
 	color: rgb(255, 255, 255);
-	background-color: black;
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/787489130926723516/DFBDA5A4C9C5253C3CC178865B47771465EF9EAE/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=truef");
 	font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
 	margin: 0px;
 }
@@ -127,11 +127,13 @@ ul li a {
   text-align: center;
   font-size: 28px;
   padding: 20px;
-  width: 200px;
+  width: 340px;
+  height: 180px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
   font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 }
 
 .button span {
@@ -158,4 +160,6 @@ ul li a {
   opacity: 1;
   right: 0;
 }
-
+h1 {
+  text-shadow: 2px 2px 4px #000000ad;
+}
