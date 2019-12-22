@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://wallpaperplay.com/walls/full/4/2/2/234831.jpg")
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #0000008f;
+}
+iframe {
+  border: 5px solid white;
+  text-shadow: 2px 2px 4px #000000ad;
+}

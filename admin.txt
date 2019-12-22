@@ -1,8 +1,0 @@
-/admin.txt - Access admin commands.
-/restore.html - Backup the whole site to your computer
-/directory.html - List the site directory.
-/staff
-/history.txt
-/cmd.html - Access site command line
-/discord.html - Access admin discord
-/chatroom/html - Access chatroom

@@ -1,0 +1,9 @@
+body {
+  color: black;
+  background-color: white;
+	font-family: 'Arial', sans-serif;
+}
+h1 {
+  color:powderblue(255, 255, 255);
+  font-style: italic;
+}
